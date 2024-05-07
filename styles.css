@@ -65,7 +65,7 @@ h1 {
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
-  margin:0px;
+  margin: 0px;
 }
 
 .étoiles {
@@ -90,18 +90,18 @@ h2 {
   margin: 0px;
 }
 
-.bloc1{
+.bloc1 {
   display: flex;
-  justify-content:space-between;
+  justify-content: space-between;
   margin: 0%;
 }
 
-.colone1{
+.colone1 {
   margin-top: 18px;
   margin-bottom: 25px;
 }
 
-.colone2{
+.colone2 {
   margin-top: -4px;
 }
 
@@ -111,7 +111,7 @@ h2 {
   font-size: 12px;
   font-weight: 400;
   margin: 0px;
-  
+
 }
 
 .écrire p {
@@ -121,7 +121,7 @@ h2 {
   font-weight: 400;
 }
 
-.texte p{
+.texte p {
   color: #212121;
   font-family: "Istok Web";
   font-size: 12px;
@@ -142,11 +142,11 @@ h2 {
 
 
 
-.notes p{
+.notes p {
   color: #B3B3B3;
   font-family: "Istok Web";
   font-size: 12px;
-  font-weight: 400; 
+  font-weight: 400;
   margin: 0px;
 }
 
@@ -166,7 +166,9 @@ h2 {
   gap: 55.13px;
   margin-top: 14px;
   border-bottom: 25px;
-border-color: #f9bbc0;
-width: 430px;
-height: 79px;
+  box-sizing: border-box;
+  border-color: #f9bbc0;
+  width: 430px;
+  height: 79px;
+
 }
